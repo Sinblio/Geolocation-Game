@@ -1,0 +1,16 @@
+----------------------------------------------------------------
+Tue Oct 01 15:27:49 CDT 2019:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-016d-8901-f4c9-00000d872390 
+on database directory memory:C:\Users\Ben Schroeder\Documents\Git\CS309\ks_4\Backend\Spring\testdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@c387f44 
+Loaded from file:/C:/Users/Ben%20Schroeder/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=13+33
+user.dir=C:\Users\Ben Schroeder\Documents\Git\CS309\ks_4\Backend\Spring
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Tue Oct 01 15:27:53 CDT 2019:
+Shutting down instance a816c00e-016d-8901-f4c9-00000d872390 on database directory memory:C:\Users\Ben Schroeder\Documents\Git\CS309\ks_4\Backend\Spring\testdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@c387f44 
