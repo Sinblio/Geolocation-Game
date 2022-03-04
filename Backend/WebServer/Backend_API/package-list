@@ -1,0 +1,6 @@
+ks4.campus_contagion
+ks4.campus_contagion.controllers
+ks4.campus_contagion.dataquery.databaseEntities
+ks4.campus_contagion.dataquery.databaseRepositories
+ks4.campus_contagion.localServices
+ks4.campus_contagion.models
